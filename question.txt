@@ -1,0 +1,11 @@
+1. Create a numpy array with numpy.array module and with data type integer and float.
+
+2. Create numpy arrays that have zero,one,two,three,Four dimensions respectively. Also, print the shape and dimensions of the numpy arrays created above.
+
+3.Create a 2x3 , 3x3 and 4x4 identity matrix using numpy
+
+4.Create a numpy array with shape 2x5 that has all elements as zero 5. create a numpy array that has shape 3x5 and all elements are 5.
+
+5.#create numpy arraywith shape 2*5 that has all elements zero zero = np.zeros((2, 5)) print(zero).
+
+6. Create a numpy array with random integers in the range 0-100 , and the sample size 25.
